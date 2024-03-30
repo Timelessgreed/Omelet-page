@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    margin: 0;
+margin: 0;
     font-family: "Outfit", sans-serif;
 }
 .wrapper{
@@ -18,13 +18,13 @@ body{
 }
 .container{
     background-color: white;
-    width: 365px;
+    width: 460px;
     padding: 15px;
     border-radius: 20px;
-    margin: 15px;
+    margin: 100px;
 }
 img{
-    width: 335px;
+    width: 425px;
     padding: 5px;
     border-radius: 15px;
 }
@@ -78,7 +78,7 @@ color: hsl(30, 10%, 34%);
 .one-long{
     height: 1px; 
     background-color: black; 
-    width: 320px; 
+    width: 420px; 
 }
 .instructions{
     margin: 0px;
@@ -99,7 +99,7 @@ color: hsl(30, 10%, 34%);
 .two-long{
     height: 1px; 
     background-color: black; 
-    width: 320px; 
+    width: 420px; 
 }
 .nutrition{
     margin: 0;
@@ -132,5 +132,5 @@ color: hsl(30, 10%, 34%);
 hr{
     height: 1px; 
   background-color: black; 
-  width: 170px; 
+  width: 215px; 
 }
